@@ -1,0 +1,16 @@
+{
+  "name": "markdown-filepicker",
+  "main": "./lib/markdown-filepicker",
+  "version": "0.0.1",
+  "description": "Easy image uploads. Copy and paste image to markdown.",
+  "repository": "https://github.com/xdite/markdown-filepicker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "~2.55.0",
+    "filepicker-js": "~2.4.14",
+    "unix-time": "~1.0.1"
+  }
+}
